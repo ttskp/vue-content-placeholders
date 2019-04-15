@@ -1,5 +1,5 @@
 {
-  "name": "vue-content-placeholders",
+  "name": "@tts-intern/vue-content-placeholders",
   "description": "Vue Components for rendering animated content placeholders like facebook",
   "version": "0.2.0",
   "author": "Michał Sajnóg <msajnog93@gmail.com> (http://github.com/michalsnik)",
